@@ -4,7 +4,7 @@ SQL query to get raw data (`iv` and `snow`)
 
 > ndvi 
 
-```sql 
+```sql
 SELECT
 iv.ano,
 iv.ndvi_i_invierno,
